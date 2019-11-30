@@ -1,7 +1,16 @@
 
 .App{
-  font-size: 30px;
-  color: green;
   text-align: center;
   margin: 50px;
+}
+.welcome{
+	font-size: 5px;
+	color: grey;
+}
+footer{
+	font-size: 16px;
+	color: grey;
+}
+h3{
+	color: brown;
 }
